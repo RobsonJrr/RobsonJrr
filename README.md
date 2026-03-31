@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim
 
 - 💻 Atualmente cursando **"Engenharia de software"** com foco em:
-  - Python, Django, C!
+  - Python, Django e C
   - Testes automatizados (TDD), POO, Design Patterns (GoF)
   - Algoritmos e boas práticas de programação
 - 🌐 Também estudando **HTML, CSS e MySQL**
