@@ -9,11 +9,11 @@
 ### 🚀 Sobre mim
 
 - 💻 Atualmente cursando **"Engenharia de software"** com foco em:
-  - Python, Django e C
+  - Python, C, HTML e CSS
   - Testes automatizados (TDD), POO, Design Patterns (GoF)
   - Algoritmos e boas práticas de programação
-- 🌐 Também estudando **HTML, CSS e MySQL**
-- 📈 Buscando evoluir como desenvolvedor back-end e contribuir com projetos reais
+- 🌐 Também estudando **SQlite e JavaScript**
+- 📈 Buscando evoluir como desenvolvedor e contribuir com projetos reais
 
 ---
 
